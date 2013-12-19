@@ -1,0 +1,4 @@
+sensorsExample
+==============
+
+android sensors example
